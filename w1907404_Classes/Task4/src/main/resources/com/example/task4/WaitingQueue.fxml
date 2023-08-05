@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="root" prefHeight="491.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.task4.WaitingQueueController">
+   <children>
+      <TableView fx:id="tblWaitingQueue" layoutX="19.0" layoutY="93.0" prefHeight="286.0" prefWidth="567.0">
+        <columns>
+          <TableColumn prefWidth="187.20001220703125" text="First Name" />
+          <TableColumn prefWidth="160.0" text="Second Name" />
+            <TableColumn prefWidth="112.79998779296875" text="Vehicle Number" />
+            <TableColumn prefWidth="104.0" text="Liter Riqured" />
+        </columns>
+      </TableView>
+      <Label layoutX="217.0" layoutY="40.0" style="-fx-background-color: #eb2f06; -fx-background-radius: 10; -fx-label-padding: 5;" text="Waiting Queue" textFill="WHITE">
+         <font>
+            <Font name="Verdana" size="21.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Label>
+      <Button layoutX="265.0" layoutY="426.0" mnemonicParsing="false" onAction="#btnHomeOnAction" prefHeight="40.0" prefWidth="93.0" style="-fx-background-color: #b71540; -fx-background-radius: 10;" text="Home" textFill="#fafafa">
+         <font>
+            <Font size="18.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+   </children>
+</AnchorPane>

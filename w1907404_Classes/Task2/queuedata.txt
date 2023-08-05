@@ -1,0 +1,156 @@
+DINUWARA THIRANJAYA
+dinuwara
+thiranjaya
+11a
+KEERTHANA GINIDARANI
+keerthana
+ginidarani
+11b
+KAVINDU GAYAN
+kavindu
+gayan
+11c
+AAKSHI NEHA
+aakshi
+neha
+11d
+SHAKYA WEERASINGHE
+shakya
+weerasinghe
+11e
+DINITHI OSHANI
+dinithi
+oshani
+11f
+BUDDIMA KAUSHALYA
+buddima
+kaushalya
+22a
+PASINDU NIRODA
+pasindu
+niroda
+22b
+MALSHA FERNANDO
+malsha
+fernando
+22c
+SACHINI ABEYWEERA
+sachini
+abeyweera
+22d
+SHIROMI PRIYANGIKA
+shiromi
+priyangika
+22e
+WASANA THENNAKOON
+wasana
+thennakoon
+22f
+GIMHAN NIPUN
+gimhan
+nipun
+33a
+SANJULA NIWANTHA
+sanjula
+niwantha
+33b
+MILINDA PRABATH
+milinda
+prabath
+33c
+NIKINI HERATH
+nikini
+herath
+33d
+SAVINI DULMA
+savini
+dulma
+33e
+THARUSHI KALPANA
+tharushi
+kalpana
+33f
+MADUKA LAKSHAN
+maduka
+lakshan
+44
+SANDUN LIYANGE
+sandun
+liyange
+44b
+ASHI SILVA
+ashi
+silva
+44c
+SITHMI KULASINGHE
+sithmi
+kulasinghe
+44d
+MAISHA RAHMAN
+maisha
+rahman
+44e
+UTHPALA PERERA
+uthpala
+perera
+44f
+THAVINDU LIYANGE
+thavindu
+liyange
+55a
+JAYAWI CHAMOD
+jayawi
+chamod
+55b
+SEWAMINO LIYANGE
+sewamino
+liyange
+55
+YOSHINI BIMLA
+yoshini
+bimla
+55d
+SATHSARANI KAVINDYA
+sathsarani
+kavindya
+55
+INURI LANKESHA
+inuri
+lankesha
+55f
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+30.0
+30.0
+30.0
+30.0
+30.0
+30.0
+40.0
+40.0
+40.0
+40.0
+40.0
+40.0
+50.0
+50.0
+50.0
+50.0
+50.0
+50.0
+6600.0
+0.0
+0.0
+0.0
+0.0
+0.0
